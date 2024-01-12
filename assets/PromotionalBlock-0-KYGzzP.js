@@ -1,4 +1,4 @@
-import{u as i,j as t}from"./index-N4Nwv6Q1.js";const o="/maeztra-deploy/assets/banner-cta-oUPgsH0t.png",n=i.div`
+import{u as i,j as t}from"./index--xxXuJra.js";const o="/maeztra-page/assets/banner-cta-oUPgsH0t.png",n=i.div`
     display: flex;
     flex-direction: column;
     margin: 20px 10% !important;
