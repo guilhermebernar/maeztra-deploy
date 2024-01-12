@@ -2,7 +2,7 @@
   "name": "teste-maeztreza-layout",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://guilhermebernar.github.io/maeztra-page",
+  "homepage": "http://guilhermebernar.github.io/maeztra-deploy",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
